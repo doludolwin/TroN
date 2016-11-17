@@ -1,2 +1,0 @@
-# TroN
-jekyll sample
