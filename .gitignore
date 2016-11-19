@@ -1,0 +1,14 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+.DS_Store
+package.json
+gulpfile.js
+asset-original/
+bower_components/
+node_modules/
+.sass-cache
+*.css.map
+dev/
+dist/
